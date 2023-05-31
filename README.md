@@ -1,6 +1,6 @@
 # Next.js Ready-To-Run (RTR) Template
 
-This is a quick start template for your Next project. Simply clone it, follow the Quick Setup guide, and it will be ready to run.
+This is a quick start template for your Next project. Simply click the `Use this template` button, follow the Quick Setup guide, and it will be ready to run.
 
 ## What is pre-packaged in this template?
 
